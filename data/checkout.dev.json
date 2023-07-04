@@ -1,0 +1,12 @@
+{
+  "ios": {
+    "0.0.1": {
+      "checkout": "http://localhost:8084/[name][ext]"
+    }
+  },
+  "android": {
+    "0.0.1": {
+      "checkout": "http://localhost:8084/[name][ext]"
+    }
+  }
+}
